@@ -10,7 +10,6 @@ An STM32-based automotive safety system that detects vehicle crashes using MPU60
 - 📍 Real-Time GPS Tracking using NEO-6M
 - 🌐 MQTT Alert System using ESP8266
 - 💾 EEPROM-based Black Box Crash Logging
-- 📊 Live Monitoring Dashboard using Node-RED
 - 🔌 UART & I2C Communication
 - ⚡ Real-Time Embedded System using STM32
 
@@ -70,7 +69,7 @@ An STM32-based automotive safety system that detects vehicle crashes using MPU60
    - GPS coordinates fetched
    - Alert sent via MQTT
    - Crash data stored in EEPROM
-4. Node-RED dashboard displays live crash location.
+
 
 ---
 
